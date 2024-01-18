@@ -1,24 +1,10 @@
 # joshuarhb.github.io
 
-## Project setup
-```
-npm install
-```
+This is the repo for my personal site.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Here I want to share some more information about me with anyone that wants to know.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+You can also find me here:
+<br>[LinkedIn](https://www.linkedin.com/in/joshuarhb/)
+<br>[GitHub](https://github.com/JoshuaRHB)
+<br>[CodePen](https://codepen.io/JoshuaRHB)
