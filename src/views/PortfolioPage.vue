@@ -1,7 +1,6 @@
 <template>
   <div class="PortfolioPage">
-    Portfolio Info
-    <h2>Hello this is my ortfolio</h2>
+    <h2>My Portfolio</h2>
   </div>
 </template>
 
