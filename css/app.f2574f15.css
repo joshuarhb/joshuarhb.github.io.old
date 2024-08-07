@@ -1,1 +1,0 @@
-nav{position:fixed;top:0;width:100%;display:flex;justify-content:flex-start;background-color:#7fffd4;font-size:25px;height:5%}nav a{font-style:italic bold}router-view{margin-bottom:50%}nav-bar{margin-bottom:100px}#app{font-family:Avenir,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-align:center;color:#2c3e50;margin-top:10%}
