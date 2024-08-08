@@ -4,22 +4,22 @@
     box-sizing: border-box;
   }
 
-  h1 {
-    font-size: large;
-  }
-  
-  body {
-    background-color: #F7D6FF;
-    margin: 0;
-  }
-  
   #app {
     font-family: Avenir, Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-align: left;
     color: #2c3e50;
-    margin-top: 5vh
+    margin-top: 5vh;
+  }
+
+  .router-content {
+    background-color: #F7D6FF;
+    margin: 0;
+    min-height: 100vh;
+    /* display: flex;
+    flex-direction: column; */
+    position: relative;
   }
   
   @media (max-width: 768px) { 

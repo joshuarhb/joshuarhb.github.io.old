@@ -25,6 +25,11 @@ const routes = [
     path: '/blog/:slug',
     name: 'BlogPost',
     component: () => import('@/views/BlogPostPage.vue')
+  },
+  {
+    path: '/cv',
+    name: 'CV',
+    component: () => import('@/views/CVPage.vue')
   }
 ]
 const router = createRouter({
