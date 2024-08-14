@@ -1,6 +1,7 @@
 <template>
     <div class="CVPage" id="CVPage">
         <button @click="generatePDF">Download PDF</button>
+        <iframe src="../../public/content/cv.tex" width="275" height="250"></iframe>
         <div class="CV" id="CV">
             <header>
                 <h1>Joshua Hamilton-Brown</h1>

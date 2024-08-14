@@ -49,14 +49,3 @@ p, ul {
         box-shadow: none;
         border: none;
 }
-
-.only-pdf {
-    display: none;
-}
-
-@media print {
-    .only-pdf {
-        display: block;
-        background-color: #b81e1e;
-    }
-}
